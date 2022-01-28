@@ -1,4 +1,4 @@
-# DataNomad
+# Excel Import
 
 First task at DataNomad.
 It can import any excel file with .xls,xlsx,csv extension to mysql database using spreadsheet library and excel reader library.
